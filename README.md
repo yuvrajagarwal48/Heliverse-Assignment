@@ -23,8 +23,7 @@ The dataset used for analysis is `WA_Fn-UseC_-HR-Employee-Attrition.csv`. It con
 
 ### 4. Conclusion
 Based on the analysis:
-- **Model Performance**: [Discuss the performance of each model and identify the best-performing model for predicting attrition and performance ratings.]
-- **Key Insights**: [Highlight any key insights or trends discovered from the analysis that can provide valuable insights for HR decision-making.]
+- **Model Performance**: For Attrition Support Vector Machine was giving the best results and for Performance Rating Random Forest Classifier was giving the best results
 
 ## Files
 - `employee_attrition_analysis.ipynb`: Jupyter Notebook containing the complete analysis code.
