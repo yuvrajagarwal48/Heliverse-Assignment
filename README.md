@@ -30,6 +30,6 @@ Based on the analysis:
 - `README.md`: This file providing an overview of the analysis.
 
 ## Usage
-1. Clone the repository.
+1. git clone git@github.com:yuvrajagarwal48/Heliverse-Assignment.git
 2. Install the required libraries (`numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`) if not already installed.
-3. Run the Jupyter Notebook `employee_attrition_analysis.ipynb` to reproduce the analysis.
+3. Run the Jupyter Notebook `analysis.ipynb` to reproduce the analysis.
